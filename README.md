@@ -6,11 +6,11 @@ This repository contains a notebook for python beginners.
 
 A comprehensive Jupyter notebook introducing fundamental Python programming concepts with clear explanations, practical examples, and hands-on exercises.
 
-## 📚 Overview
+## Overview
 
 This interactive notebook is designed for absolute beginners who want to learn Python from scratch. It covers essential concepts and provides a foundation for further programming studies.
 
-## ✨ What You'll Learn
+## What You'll Learn
 
 - **Variables and Data Types** - Understand how to store and work with different types of data
 - **Operators** - Learn arithmetic, comparison, and logical operations
@@ -20,7 +20,7 @@ This interactive notebook is designed for absolute beginners who want to learn P
 - **Data Structures** - Work with lists and dictionaries
 - **Best Practices** - Learn Python coding conventions and patterns
 
-## 📋 Table of Contents
+## Table of Contents
 
 1. Variables and Data Types
 2. Operators (Arithmetic, Comparison, Logical)
@@ -30,7 +30,7 @@ This interactive notebook is designed for absolute beginners who want to learn P
 6. Lists and Dictionaries
 7. Practice Exercises
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -70,7 +70,7 @@ jupyter notebook
 # Click on Python_Basics_for_Beginners.ipynb to open it
 ```
 
-## 📖 How to Use This Notebook
+## How to Use This Notebook
 
 1. **Read the explanations** - Each section starts with clear explanations of concepts
 2. **Run the examples** - Execute code cells to see outputs immediately
@@ -90,7 +90,7 @@ jupyter notebook
 | Edit mode | `Enter` |
 | Command mode | `Esc` |
 
-## 💪 Practice Exercises
+## Practice Exercises
 
 The notebook includes 5 progressive exercises:
 
@@ -102,7 +102,7 @@ The notebook includes 5 progressive exercises:
 
 **Solutions** - Try solving these yourself first! If you get stuck, ask for hints or look up similar examples in the notebook.
 
-## 📊 Learning Path
+## Learning Path
 
 ```
 Week 1: Variables → Operators → Control Flow
@@ -111,7 +111,7 @@ Week 3: Lists & Dictionaries → Practice Exercises
 Week 4: Build your own project!
 ```
 
-## 🔗 Resources for Further Learning
+## Resources for Further Learning
 
 ### Official Documentation
 - [Python Official Docs](https://docs.python.org/3/)
@@ -131,16 +131,16 @@ Week 4: Build your own project!
 - [Tech with Tim](https://www.youtube.com/c/TechWithTim)
 - [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
 
-## 🎯 Tips for Success
+## Tips for Success
 
-✅ **Code along** - Type the examples yourself, don't just copy-paste  
-✅ **Break things** - Experiment and make mistakes; that's how you learn  
-✅ **Debug systematically** - Read error messages carefully  
-✅ **Practice daily** - Even 15 minutes a day compounds over time  
-✅ **Build projects** - Apply what you learn to real problems  
-✅ **Join communities** - Connect with other learners for support  
+**Code along** - Type the examples yourself, don't just copy-paste  
+**Break things** - Experiment and make mistakes; that's how you learn  
+**Debug systematically** - Read error messages carefully  
+**Practice daily** - Even 15 minutes a day compounds over time  
+**Build projects** - Apply what you learn to real problems  
+**Join communities** - Connect with other learners for support  
 
-## 📝 Common Python Patterns
+## Common Python Patterns
 
 ### Variable Naming Convention
 ```python
@@ -175,7 +175,7 @@ def get_user_input():
     pass
 ```
 
-## ❓ Troubleshooting
+## Troubleshooting
 
 ### "ModuleNotFoundError" when importing libraries
 ```bash
@@ -193,7 +193,7 @@ pip install module_name
 - Close other applications using RAM
 - Update Jupyter: `pip install --upgrade jupyter`
 
-## 🤝 Contributing
+## Contributing
 
 Found an error? Have a suggestion?
 1. Fork this repository
@@ -201,18 +201,18 @@ Found an error? Have a suggestion?
 3. Make your changes
 4. Submit a pull request
 
-## 📄 License
+## License
 
 This notebook is released under the MIT License - feel free to use, modify, and share!
 
-## 🙋 Getting Help
+## Getting Help
 
 - **In the notebook** - Hover over error messages and read them carefully
 - **Online** - Search your error message on Stack Overflow
 - **Communities** - Ask on Reddit (/r/learnprogramming), Discord servers
 - **Official Docs** - Python's documentation is excellent
 
-## 🎓 What's Next After This Notebook?
+## What's Next After This Notebook?
 
 Once you've mastered the basics:
 
@@ -224,7 +224,7 @@ Once you've mastered the basics:
 6. **Data Science** - Machine learning with scikit-learn
 7. **Competitive Programming** - Solve algorithmic challenges
 
-## 👨‍💻 Author
+## Author
 
 Created for beginners learning Python programming.
 
